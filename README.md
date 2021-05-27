@@ -1,1 +1,7 @@
-# vs_project.github.io
+# VS_Project
+
+Stefan Jovic
+Fatlum Kurtaj
+Katharina Weiss
+Reinhard Winter
+Dimitrije Djukic
